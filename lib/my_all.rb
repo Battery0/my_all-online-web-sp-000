@@ -14,11 +14,3 @@ def my_all?(collection)
     true
   end
 end
-
-
-
-
-
-
-
-#(:collection) { [1, 2, 3] }
